@@ -249,5 +249,3 @@ Additional manual testing has covered registration, login, authorization, creden
 ## Project Purpose
 
 This project demonstrates the practical integration of full-stack development, Java backend engineering, database management, application security, cryptographic hashing and blockchain technology.
-
-**Developed as an academic project by a team of three members.**
